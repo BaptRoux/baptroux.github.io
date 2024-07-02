@@ -1,67 +1,67 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Name
-      value: Baptiste Roux
-    - name: Date of Birth
-      value: 5th January 1997
-    - name: Languages
-      value: French (native), English (fluent), Spanish (basic)
-      
-- title: Research Areas
-  type: list
-  contents:
-    - My research interests are in <b>labor economics</b> and <b>public economics</b>
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Name
+#      value: Baptiste Roux
+#    - name: Date of Birth
+#      value: 5th January 1997
+#    - name: Languages
+#      value: French (native), English (fluent), Spanish (basic)
+#      
+#- title: Research Areas
+#  type: list
+#  contents:
+#    - My research interests are in <b>labor economics</b> and <b>public economics</b>
+#
+#- title: Education
+#  type: table
+#  contents:
+#    - title: <b>PhD in Economics</b>
+#      institution: EHESS
+#      year: 2022-present
+#      description:
+#        - '<u>Advisor:</u> <a href="http://www.jourdan.ens.fr/~askenazy/" target="_blank"><b>Philippe Askénazy</b></a>'
+#    - title:  <b>M.Sc. in Economics</b>, APE
+#      institution: Paris School of Economics
+#      year: 2018-2020
+#    - title:  <b>BA in Economics </b> 
+#      institution: Ecole Normale Supérieure Paris-Saclay
+#      year: 2017-2018
+#
+#- title: Research Experiences
+#  type: table
+#  contents:
+#    - title: Research Analyst
+#      institution: Conseil d'Analyse Economique (French Council of Economic Analysis)
+#      year: 2021 - 2022
+#    - title: Pre-doc
+#      institution: STICERD, London School of Economics
+#      year: 2020 - 2021
+#      description: Reseach Assistant to Pr. Daniel Reck
+#    - title: Internship
+#      institution: INRAE, Toulouse School of Economics
+#      year: 2019
+#      description: Reseach Assistant to Pr. Philippe Bontems
+#
+#- title: Teaching Experiences
+#  type: table
+#  contents:
+#    - title: Microeconomics, undergraduate
+#      institution: Paris I Panthéon-Sorbonne, TA
+#      year: 2019, 2022, 2023
+#    - title: Introduction to Economics, <i>Preparation to INSP<i>
+#      institution: Ecole Normale Supérieure - Paris I Panthéon-Sorbonne
+#      year: 2023
+#    - title: Evaluation of Public Policies
+#      institution: Sciences Po, School of Public Affairs, TA
+#      year: 2023
 
-- title: Education
-  type: table
-  contents:
-    - title: <b>PhD in Economics</b>
-      institution: EHESS
-      year: 2022-present
-      description:
-        - '<u>Advisor:</u> <a href="http://www.jourdan.ens.fr/~askenazy/" target="_blank"><b>Philippe Askénazy</b></a>'
-    - title:  <b>M.Sc. in Economics</b>, APE
-      institution: Paris School of Economics
-      year: 2018-2020
-    - title:  <b>BA in Economics </b> 
-      institution: Ecole Normale Supérieure Paris-Saclay
-      year: 2017-2018
-
-- title: Research Experiences
-  type: table
-  contents:
-    - title: Research Analyst
-      institution: Conseil d'Analyse Economique (French Council of Economic Analysis)
-      year: 2021 - 2022
-    - title: Pre-doc
-      institution: STICERD, London School of Economics
-      year: 2020 - 2021
-      description: Reseach Assistant to Pr. Daniel Reck
-    - title: Internship
-      institution: INRAE, Toulouse School of Economics
-      year: 2019
-      description: Reseach Assistant to Pr. Philippe Bontems
-
-- title: Teaching Experiences
-  type: table
-  contents:
-    - title: Microeconomics, undergraduate
-      institution: Paris I Panthéon-Sorbonne, TA
-      year: 2019, 2022, 2023
-    - title: Introduction to Economics, <i>Preparation to INSP<i>
-      institution: Ecole Normale Supérieure - Paris I Panthéon-Sorbonne
-      year: 2023
-    - title: Evaluation of Public Policies
-      institution: Sciences Po, School of Public Affairs, TA
-      year: 2023
-
-- title: Conferences and Seminar Presentations
-  type: table
-  contents:
-    - title: 
-      year: 2024
-      description: Labor Chair Internal Seminar (PSE), Applied Economics Lunch Seminar (PSE), AFSE Meeting 2024, LAGV 2024
-    - title: 
-      year: 2023
-      description: PhD Seminar (PSE)
+#- title: Conferences and Seminar Presentations
+#  type: table
+#  contents:
+#    - title: 
+#      year: 2024
+#      description: Labor Chair Internal Seminar (PSE), Applied Economics Lunch Seminar (PSE), AFSE Meeting 2024, LAGV 2024
+#    - title: 
+#      year: 2023
+#      description: PhD Seminar (PSE)
