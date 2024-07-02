@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-type: [in progress, WP soon, WP soon]
+type: [inetrav, forf_jours, indevac]
 nav: true
 publications: false
 ---
