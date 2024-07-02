@@ -211,6 +211,12 @@ latest_posts:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+gems:
+  - jekyll-scholar
+scholar:
+  source: _bibliography
+  bibliography: ongoing.bib
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
