@@ -12,12 +12,12 @@ publications: false
 {% for y in page.type %}
   <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f ongoing -q @*[abbr={{y}}]* %}
-
-  {% for publication in site.bibliography.ongoing %}
-    {% if publication.abbr == y %}
+  
+  {% for entry in site.scholar.entries %}
+    {% if entry.key == y %}
       <div class="publication">
-        <h3>{{ publication.title }}</h3>
-        <p>with {{ publication.authors | replace: "Your Name,", "" | replace: ", Your Name", "" | replace: "Your Name", "" }}</p>
+        <h3>{{ entry.title }}</h3>
+        <p>with {{ entry.author | replace: "Baptiste Roux,", "" | replace: ", Baptiste Roux", "" | replace: "Baptiste Roux", "" }}</p>
       </div>
     {% endif %}
   {% endfor %}
