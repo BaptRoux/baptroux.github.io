@@ -13,7 +13,7 @@ publications: false
   <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f ongoing -q @*[abbr={{y}}]* %}
 
-  {% for publication in site.data.publications %}
+  {% for publication in site.bibliography.ongoing %}
     {% if publication.abbr == y %}
       <div class="publication">
         <h3>{{ publication.title }}</h3>
