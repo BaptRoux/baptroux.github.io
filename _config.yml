@@ -254,9 +254,6 @@ scholar:
   source: /_bibliography/
   bibliography: ongoing.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
@@ -267,6 +264,7 @@ scholar:
   details_link: Details
 
   query: "@*"
+
 
 # Display different badges withs stats for your publications
 #enable_publication_badges:
