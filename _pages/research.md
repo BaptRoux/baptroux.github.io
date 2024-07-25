@@ -2,33 +2,15 @@
 layout: page
 permalink: /research/
 title: Research
-type: [inetrav, forf_jours, indevac]
 nav: true
 ---
 
 ### Work in Progress
-<div class="publications">
-  {% for entry in site.data.ongoing.entries %}
-    {% if entry.key in page.type %}
-      <div class="publication">
-        <h3>{{ entry.title }}</h3>
-        <p>with 
-          {% assign authors = entry.author | split: " and " %}
-          {% assign filtered_authors = "" %}
-          {% for author in authors %}
-            {% if author != "Baptiste Roux" %}
-              {% if filtered_authors != "" %}
-                {% assign filtered_authors = filtered_authors | append: ", " %}
-              {% endif %}
-              {% assign filtered_authors = filtered_authors | append: author %}
-            {% endif %}
-          {% endfor %}
-          {{ filtered_authors }}
-        </p>
-        {% if entry.abstract %}
-          <p>{{ entry.abstract }}</p>
-        {% endif %}
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+* **In Search of Working Time? Exploring the Structure of Hour Constraints**\
+_This paper focuses on the phenomenon of work hour constraints, i.e the inability for individuals to work their desired number of hours. Survey evidence indicates that a sizeable 32% of part-time workers and 18% of full-time workers would ideally work more hours at a given wage rate. While previous research has often portrayed these constraints as firm-level issues driven by organizational and productivity needs, there is limited understanding of the individual factors contributing to these constraints. Combining survey and administrative data in the case of France, I provide new individual-level evidence on the structure of hour constraints by decomposing variation in hours at the branch, firm and individual level. Results suggest that hour constraints are not solely due to firm-specific rigidities but also involve a worker-level bargaining dimension._
+
+* **Ignorance and Complexity of Labor Regulations and the Division of Rents**\
+(with Thomas Breda and Vladimir Pecheu)
+
+* **On the Relation between Self-Employment and Recruitment Difficulties**\
+(with Philippe Askenazy and Christine Erhel)
