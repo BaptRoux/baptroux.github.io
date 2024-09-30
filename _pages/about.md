@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi ! 
-I am a second-year PhD Student at <a href="https://www.ehess.fr/fr" target="_blank">`EHESS`</a>, affiliated to the Chaire Travail of <a href="https://www.parisschoolofeconomics.eu/fr/" target="_blank">`Paris School of Economics`</a>. I am working under the supervision of <a href="http://www.jourdan.ens.fr/~askenazy/" target="_blank">`Philippe Askénazy`</a>.
+I am a third-year PhD Student at <a href="https://www.ehess.fr/fr" target="_blank">`EHESS`</a>, affiliated to the Chaire Travail of <a href="https://www.parisschoolofeconomics.eu/fr/" target="_blank">`Paris School of Economics`</a>. I am working under the supervision of <a href="http://www.jourdan.ens.fr/~askenazy/" target="_blank">`Philippe Askénazy`</a>.
 
 **Primary fields :** Labor Economics, Working Time.  
 **Secondary fields :** Public Economics.
