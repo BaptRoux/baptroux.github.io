@@ -27,7 +27,7 @@ _90% of French workers have a working contract stipulating a given number of hou
 &nbsp; 
 ### Policy (in French)
 
-&nbsp; 
+
 -   [Baisse de la Productivité en France : Echec en « maths » ?](https://www.cae-eco.fr/baisse-de-la-productivite-en-france-echec-en-maths) *(Declining Productivity in France : A "Math" Problem?)*, with R. Martin and T. Renault, Focus du CAE no. 091-2022, September 2022.
 -   [Activité Partielle et Situation Pré-Crise des Entreprises](https://www.cae-eco.fr/activite-partielle-et-situation-pre-crise-des-entreprises) *(Short-time Work and the Pre-Crisis Situation of Firms)*, with F. Fontaine, Focus du CAE n°082-2022, March 2022.
 -   [Immigration et Difficultés de Recrutement](https://www.cae-eco.fr/immigration-et-difficultes-de-recrutement) *(Immigration and Recruitment Difficulties)*, with J. Beuve and M. Péron, Focus du CAE n°073-2021, November 2021. 
