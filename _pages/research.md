@@ -17,7 +17,7 @@ _90% of French workers have a working contract stipulating a given number of hou
 
 ### Working Papers
 
-*[in French]* Le Développement des Nouveaux Indépendants est-il un Facteur de Tension sur le Marché du Travail Salarié ? *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with P. Askenazy and C. Erhel, Connaissance de l'Emploi n°203, December 2024.
+*[in French]* Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with P. Askenazy and C. Erhel, Connaissance de l'Emploi n°203, December 2024.
 
 ### Policy (in French)
 
