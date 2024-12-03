@@ -6,5 +6,11 @@ nav: true
 nav_order: 3
 cv_pdf: cv.pdf
 description: 
+toc:
+  sidebar: left
 ---
-<object data="../assets/pdf/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+<div style="width: 100%; height:800">
+  <iframe src="../assets/pdf/cv.pdf" width="100%" height="800">
+  Please click on the icon on the top right to download my CV if it does not show up in your browser. 
+  </iframe>
+</div>
