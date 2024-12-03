@@ -19,11 +19,11 @@ _90% of French workers have a working contract stipulating a given number of hou
 
 *[in French]* Le Développement des Nouveaux Indépendants est-il un Facteur de Tension sur le Marché du Travail Salarié ? *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with P. Askenazy and C. Erhel, Connaissance de l'Emploi n°203, December 2024.
 
-### Policy 
+### Policy (in French)
 
-- *[in French]*  Baisse de la Productivité en France : Echec en « maths » ? *(Declining Productivity in France : A "Math" Problem?)*, with R. Martin and T. Renault, Focus du CAE no. 091-2022, September 2022.
-- *[in French]*  Activité Partielle et Situation Pré-Crise des Entreprises *(Short-time Work and the Pre-Crisis Situation of Firms)*, with F. Fontaine, Focus du CAE n°082-2022, March 2022.
-- *[in French]*  Immigration et Difficultés de Recrutement *(Immigration and Recruitment Difficulties)*, with J. Beuve and M. Péron, Focus du CAE n°073-2021, November 2021. 
+-   Baisse de la Productivité en France : Echec en « maths » ? *(Declining Productivity in France : A "Math" Problem?)*, with R. Martin and T. Renault, Focus du CAE no. 091-2022, September 2022.
+-   Activité Partielle et Situation Pré-Crise des Entreprises *(Short-time Work and the Pre-Crisis Situation of Firms)*, with F. Fontaine, Focus du CAE n°082-2022, March 2022.
+-   Immigration et Difficultés de Recrutement *(Immigration and Recruitment Difficulties)*, with J. Beuve and M. Péron, Focus du CAE n°073-2021, November 2021. 
 
  
 
