@@ -37,7 +37,7 @@ nav: true
 
 <style>
 .abstract-button {
-    background-color: #6495ED;
+    background-color: #D35400; /* Dark Orange */
     color: white;
     border: none;
     padding: 10px 15px;
@@ -49,24 +49,13 @@ nav: true
 }
 
 .abstract-button:hover {
-    background-color: #0056b3;
+    background-color: #A04000; /* Even Darker Orange for Hover */
 }
 
 .abstract-button:focus {
     outline: none;
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.8);
+    box-shadow: 0 0 5px rgba(211, 84, 0, 0.8); /* Subtle glow effect */
 }
 </style>
-
-<script>
-function toggleAbstract(id) {
-    var element = document.getElementById(id);
-    if (element.style.display === "none") {
-        element.style.display = "block";
-    } else {
-        element.style.display = "none";
-    }
-}
-</script>
  
 
