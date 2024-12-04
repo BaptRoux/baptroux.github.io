@@ -37,7 +37,7 @@ nav: true
 
 <style>
 .abstract-button {
-    background-color: #007BFF;
+    background-color: #6495ED;
     color: white;
     border: none;
     padding: 10px 15px;
