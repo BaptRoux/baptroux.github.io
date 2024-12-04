@@ -25,7 +25,7 @@ nav: true
 &nbsp; 
 ### Working Papers
 
-*[in French]* Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ? *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with [P. Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [C. Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
+* *[in French]* **Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ?** *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with [P. Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [C. Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
 
 &nbsp; 
 ### Policy (in French)
