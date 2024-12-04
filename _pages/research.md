@@ -11,7 +11,7 @@ nav: true
 * **In Search of Working Time? Hours Constraints and Firms** [Draft available upon request]  
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   <div id="abstract1" style="display:none; margin-top:10px;">
-    This paper focuses on hours constraints, the inability for employees to work their preferred number of hours at a given wage rate. While previous research has often depicted these constraints as related to firm-specific hours policies, little evidence exists to support this view as data on constraints remain scarce. Exploiting a unique feature of the French Labor Force Survey, I link the majority of workers reporting their constraints to panel administrative data and provide new insights regarding the role of firms in hours constraints. First, relying on a decomposition approach, I confirm that occupational sorting explains the majority of variation in constraint probability, while further demonstrating that firm sorting accounts for 73% of the remaining variation. Within constraining jobs, I identify a significant hours gap between constrained and unconstrained workers, sometimes in the same firm, and investigate potential mechanisms driving this disparity. Second, I exploit the panel dimension of my linked data to study labor market transitions of constrained workers. I observe a higher probability to move across employers for constrained workers. When such transitions occur, these workers experience larger increases in hours worked and consequently higher earnings, as the effect on hourly wages remains flat.
+    This paper focuses on hours constraints, the barriers for employees to work their preferred number of hours at a given wage rate. While previous research has often depicted these constraints as related to firm-specific hours policies, little evidence exists to support this view as data on constraints remain scarce. Exploiting a unique feature of the French Labor Force Survey, I link the majority of workers reporting their constraints to panel administrative data and provide new insights regarding the role of firms in hours constraints. First, relying on a decomposition approach, I confirm that occupational sorting explains the majority of variation in constraint probability, while further demonstrating that firm sorting accounts for 73% of the remaining variation. Within constraining jobs, I identify a significant hours gap between constrained and unconstrained workers, sometimes in the same firm, and investigate potential mechanisms driving this disparity. Second, I exploit the panel dimension of my linked data to study labor market transitions of constrained workers. I observe a higher probability to move across employers for constrained workers. When such transitions occur, these workers experience larger increases in hours worked and consequently higher earnings, as the effect on hourly wages remains flat.
   </div>
 
 &nbsp; 
@@ -57,5 +57,16 @@ nav: true
     box-shadow: 0 0 5px rgba(0, 31, 84, 0.8); /* Subtle navy glow effect */
 }
 </style>
+
+<script>
+function toggleAbstract(id) {
+    var element = document.getElementById(id);
+    if (element.style.display === "none" || element.style.display === "") {
+        element.style.display = "block";
+    } else {
+        element.style.display = "none";
+    }
+}
+</script>
  
 
