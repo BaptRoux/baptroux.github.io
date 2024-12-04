@@ -37,7 +37,7 @@ nav: true
 
 <style>
 .abstract-button {
-    background-color: #D35400; /* Dark Orange */
+    background-color: #001F54; /* Classic Navy Blue */
     color: white;
     border: none;
     padding: 10px 15px;
@@ -49,12 +49,12 @@ nav: true
 }
 
 .abstract-button:hover {
-    background-color: #A04000; /* Even Darker Orange for Hover */
+    background-color: #003377; /* Slightly lighter navy blue for hover */
 }
 
 .abstract-button:focus {
     outline: none;
-    box-shadow: 0 0 5px rgba(211, 84, 0, 0.8); /* Subtle glow effect */
+    box-shadow: 0 0 5px rgba(0, 31, 84, 0.8); /* Subtle navy glow effect */
 }
 </style>
  
