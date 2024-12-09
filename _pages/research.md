@@ -5,7 +5,7 @@ title: Research
 nav: true
 ---
 
-### Work in Progress
+### **Work in Progress**
 
 &nbsp; 
 * **In Search of Working Time? Hours Constraints and Firms** [Draft available upon request]  
@@ -23,12 +23,12 @@ nav: true
   </div>
 
 &nbsp; 
-### Working Papers
+### **Working Papers**
 
 * *[in French]* **Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ?** *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with [P. Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [C. Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.
 
 &nbsp; 
-### Policy (in French)
+### **Policy (in French)**
 
 
 -   [Baisse de la Productivité en France : Echec en « maths » ?](https://www.cae-eco.fr/staticfiles/pdf/cae_Focus091.pdf) *(Declining Productivity in France : A "Math" Problem?)*, with R. Martin and T. Renault, Focus du CAE no. 091-2022, September 2022.
