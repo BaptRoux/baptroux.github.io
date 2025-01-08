@@ -26,13 +26,14 @@ nav: true
 * **Child Penalty and Hours Constraints**\
   <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   <div id="abstract3" style="display:none; margin-top:10px;">
-    A large literature has settled the existence of a child penalty, i.e the idea that the arrival of children creates a long-run gender gap in earnings. An important source for the child penalty lies in the differential evolution of hours worked across men and women following the birth of the child. In particular, many women tend to transition to part-time work when they have their first child and remain in such positions for a certain number of years. As their children grow up, women may yet be willing to return to their initial full-time working status. An important question concerns whether they are able to do so, reflecting on an important body of research on involuntary part-time work. In this paper, I use the pseudo-panel approach from Kleven (2024) and mobilize information on hours constraints from the French Labor Force Survey to distinguish what share of the child penalty in hours is driven by constraints, as opposed to voluntary part-time work reflecting stronger preferences for child care.  
+    A large literature has settled the existence of a child penalty, i.e the idea that the arrival of the first child creates a long-run gender gap in earnings. An important source for the child penalty lies in the differential evolution of hours worked across men and women following the birth of the child. In particular, many women tend to transition to part-time work when they have their first child and remain in such positions for a certain number of years. As their children grow up, women may yet be willing to return to their initial full-time working status. An important question concerns whether they are able to do so, reflecting on an important body of research on involuntary part-time work. In this paper, I use the pseudo-panel approach from Kleven (2024) and mobilize information on hours constraints from the French Labor Force Survey to distinguish what share of the child penalty in hours is driven by constraints, as opposed to voluntary part-time work reflecting stronger preferences for child care.  
   </div>
 
 &nbsp; 
 ### **Working Papers**
 
-* *[in French]* **Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ?** *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with [P. Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [C. Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024. <a href="/assets/pdf/CDE_203_Independants.pdf">Paper</a>
+* *[in French]* **Le Développement des Nouveaux Indépendants Est-Il un Facteur de Tension sur le Marché du Travail Salarié ?** *(Does the Rise of New Independent Workers Create Strains in the Salaried Labor Market?)*, with [P. Askenazy](http://www.jourdan.ens.fr/~askenazy/) and [C. Erhel](https://ceet.cnam.fr/le-ceet/chercheur-euse-s/christine-erhel-lirsa-ceet--988265.kjsp), Connaissance de l'Emploi n°203, December 2024.\
+<a href="/assets/pdf/CDE_203_Independants.pdf">Paper</a>
 
 &nbsp; 
 ### **Policy (in French)**
